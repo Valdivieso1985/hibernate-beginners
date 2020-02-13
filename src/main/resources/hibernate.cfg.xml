@@ -16,10 +16,6 @@
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL82Dialect</property>
 
         <mapping class="com.research24x7.hibernate.beginners.entity.Employee" />
-        <mapping class="com.research24x7.hibernate.beginners.entity.CompanyAnnotation"  />
-        <mapping class="com.research24x7.hibernate.beginners.entity.CountryAnnotation"  />
-        <mapping class="com.research24x7.hibernate.beginners.entity.ProductAnnotation"  />
-        <mapping class="com.research24x7.hibernate.beginners.entity.ProductTypeAnnotation"   />
         <mapping class="com.research24x7.hibernate.beginners.entity.ProductDetailAnnotation" />
         <mapping class="com.research24x7.hibernate.beginners.entity.StudentAnnotation"  />
         <mapping class="com.research24x7.hibernate.beginners.entity.MeetingAnnotation"  />
